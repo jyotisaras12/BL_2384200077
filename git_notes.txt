@@ -1,0 +1,31 @@
+local folder->right click->git bash->
+
+>echo- readme
+>init- local repo
+>add- adds files to staging area
+>commit- sends files in staging area to repo, takes snapshot of files in staging area with date and time
+each snapshot has an id.
+
+branches: either main or master
+randomly assigned
+
+>git branch -m
+
+>remote- to connect local folder to remote repository
+git remote add origin <repository-url>
+
+>push
+adds the commited files in staging area to remote repository
+git push origin <branch-name>
+
+
+
+
+
+
+
+
+
+
+
+
